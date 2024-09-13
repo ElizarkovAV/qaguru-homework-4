@@ -62,9 +62,6 @@ public class SelenoidGithubTests {
                         """
                 )
         );
-
-
-        sleep(5000);
     }
 
 }
